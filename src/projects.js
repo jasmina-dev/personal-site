@@ -11,7 +11,7 @@ export default [
         title: "Personal Portfolio",
         img: "website.png",
         desc: "Designed and developed my dynamic portfolio website (without a tutorial). I used Tailwind for styling and React for the front-end.",
-        tools: "React, Tailwind",
+        tools: "JavaScript, React, Tailwind",
         link: "https://github.com/jasmina-dev/personal-site",
         id: 2
     },
@@ -19,7 +19,7 @@ export default [
         title: "Crumbdrop",
         img: "crumbdrop.png",
         desc: "Developed a full-stack web application for college students to post mobile orders that would have gone to waste.",
-        tools: "React, Express.js, AWS RDS, MySQL, Axios",
+        tools: "JavaScript, React, Express.js, AWS RDS, MySQL, Axios",
         link: "https://github.com/jasmina-dev/crumbdrop",
         id: 3
     }
