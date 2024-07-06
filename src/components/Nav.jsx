@@ -11,6 +11,10 @@ export default function Nav() {
             projects
           </Link>
           <span className="mx-2">|</span>
+          <Link to="/about" className="hover:font-bold duration-100">
+            about
+          </Link>
+          <span className="mx-2">|</span>
           <a
             href="https://github.com/jasmina-dev"
             target="_blank"
