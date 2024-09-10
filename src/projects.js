@@ -22,5 +22,13 @@ export default [
         tools: "JavaScript, React, Express.js, AWS RDS, MySQL, Axios",
         link: "https://github.com/jasmina-dev/crumbdrop",
         id: 3
+    },
+    {
+        title: "Travel Journal",
+        img: "traveljournal.png",
+        desc: "Produced a one-page, responsive travel journal using React to practice and enhance my React skills. Styles are from Scrimba React Course.",
+        tools: "JavaScript, React, CSS",
+        link: 'https://jasmina-react-journal.netlify.app/',
+        id: 4
     }
 ]
